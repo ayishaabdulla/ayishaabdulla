@@ -2,7 +2,7 @@
 - 👀 I’m interested in VLSI
 - 🌱 I’m currently learning Verilog and System Verilog
 - 💞️ I’m looking to collaborate on projects related to VLSI domains.
-- 📫 How to reach me ..email me on ayishaabdulla101@gmail.com
+- 📫 How to reach me ..email me on ayishava10@gmail.com
 
 
 <!---
